@@ -2,9 +2,7 @@
 
 I'm going to make a brief resume to try all of them, remember to use "make" to compile it before:
 
-  * C++00:
-- ex00: "./megaphone Text" = TEXT
-- 
+
   * C++00:
   
 - ex00: "./megaphone Text" = TEXT
