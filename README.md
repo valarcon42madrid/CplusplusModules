@@ -18,4 +18,25 @@ I'm going to make a brief resume to try all of them, remember to use "make" to c
 
    * C++02:
   
+- ex00: "./MyFirstOrtodoxClass" make some classes in Orthodox Canonical Form and calls their public members.
+- ex01: "./MoreUsefulFixedPointClass" repeat the creation of classes in Orthodox Canonical Form and calls their public members, showing their pure values and their values as integer.
+- ex02: "./NowWeReTalking" make the same as the two previous exercises but now opperating with those values.
+
+   * C++03:
+
+- ex00: "./Aaaaand...OPEN\!" executes a code making classes and calling their public members, which access to the private attributes to emulate a simple game's encapsulation.
+- ex01: "./Serena,_my_love\!" repeats the usage of classes adding a new one wich inherit the constructors and destructor from the last one.
+- ex02: "./Repetitive_work" makes again the inheritance of the first class but modifiying it.
+- ex03: "./Now_its_weird\!" makes a inheritance from two classes (the original and the modified one) and is able to use members from both of them, but it only has it's own class.
+
+  * C++04:
+ 
+- ex00: "./Polymorphism" make two different classes that inherits from another one.
+- ex01: "./I_dont_want_to_set_the_world_on_fire" adds the implementation of the brain class to each class (dog and cat) inhereting from the Animal class. The brain copies are deeps.
+- ex02: "./Abstact_class" repeats the proccess but using an abstract Animal class that avoid to create just an "Animal" with no type.
+- ex03: "./Interface_recap" executes a test using classes, inheritances, calls and (deep) clones.
+
+  * C++05:
+ 
+  
    
