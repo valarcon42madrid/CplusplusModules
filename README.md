@@ -5,14 +5,14 @@ I'm going to make a brief resume to try all of them:
 - (remember to use "make" to compile it before)
 
 
-    * C++00:
+          * C++00:
 
 
 - ex00: "./megaphone Text" = TEXT
 - ex01: "./PhoneBook" + "ADD" + fields info. Then use "SEARCH" + Index nº. to watch it.
 
 
-    * C++01:
+          * C++01:
 
 
 - ex00: "./zombie" executes a creation, call, soft copy and destruction of a class.
@@ -23,7 +23,7 @@ I'm going to make a brief resume to try all of them:
 - ex05: "./harl" + "DEBUG", "INFO", "WARNING" or "ERROR" make's a call for the apropiate private member function.
 
 
-     * C++02:
+           * C++02:
 
   
 - ex00: "./MyFirstOrtodoxClass" make some classes in Orthodox Canonical Form and calls their public members.
@@ -31,7 +31,7 @@ I'm going to make a brief resume to try all of them:
 - ex02: "./NowWeReTalking" make the same as the two previous exercises but now opperating with those values.
 
 
-     * C++03:
+           * C++03:
 
 
 - ex00: "./Aaaaand...OPEN\!" executes a code making classes and calling their public members, which access to the private attributes to emulate a simple game's encapsulation.
@@ -40,7 +40,7 @@ I'm going to make a brief resume to try all of them:
 - ex03: "./Now_its_weird\!" makes a inheritance from two classes (the original and the modified one) and is able to use members from both of them, but it only has it's own class.
 
 
-    * C++04:
+          * C++04:
 
  
 - ex00: "./Polymorphism" make two different classes that inherits from another one.
@@ -49,7 +49,7 @@ I'm going to make a brief resume to try all of them:
 - ex03: "./Interface_recap" executes a test using classes, inheritances, calls and (deep) clones.
 
 
-    * C++05:
+          * C++05:
 
  - ex00: "./bureaucrat" Executes a test for the class that simulates a low-level worker with Name & Grade (1-150), Validations of grade range with exceptions, Provides getters & methods (increment/decrement grade) and Overloads << for printing info.
  - ex01: "./maggots" Test the management of bureaucratic forms with: Name, signed status, required signing/execution grades (1-150), Enforces valid grade range with exceptions, Provides getters and overloaded insertion (<<) for printing, beSigned checks bureaucrat grade for permission to sign and Bureaucrat signForm attemptings to sign the form, handling success/failure.
@@ -57,26 +57,26 @@ I'm going to make a brief resume to try all of them:
  - ex03: "./coffee_making" test for Management of bureaucratic interns with: makeForm function creation forms by name and target, Supporting for various form types and Handling invalid form requests with error messages.
 
 
-   * C++06:
+           * C++06:
   
 - ex00: "./convert X" converts the 'X' and shows the value as char, int, float and double.
 - ex01: "./serialization" test the serialization and deserialization for a pointer, that continue with the same data and address.
 - ex02: "./identify_real_type" test the random instance for a base pointer.
 
-  * C++07:
+          * C++07:
  
 - ex00: "./a_new_fuctions" test the implementation for swap, min and max function templates.
 - ex01: "./iter" checks the implementation of the function template 'iter' that should work with any type of array.
 - ex02: "./array" Implements a Array<T> class template for dynamic arrays, supporting various element types (T).
 
 
-  * C++08:
+          * C++08:
 
 - ex00: "./easy_find nº" test the searching of the number 'nº' at two different containers (vector and list), one with 1-10 and the other with the even numbers between 2 and 20.
 - ex01: "./span" test the implementation of member functions addNumber() shortestSpan() and longestSpan().
 - ex02: "./mutated_abomination" test the implementation of a class with all advantages of a std::stack but also iterable.
   
-  * C++09:
+          * C++09:
  
 - ex00: "./btc input.txt" uses the values and dates from input.txt to calculate and display the exchange rate according to the date indicated in data.csv
 - ex01: "./RPN "1 4 - 2 * 3 / 7 +" calculates with polish notation the operations and displays the result.
