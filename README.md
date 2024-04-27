@@ -58,5 +58,20 @@ I'm going to make a brief resume to try all of them, remember to use "make" to c
 
    * C++06:
   
-- ex00:  
-   
+- ex00: "./convert X" converts the 'X' and shows the value as char, int, float and double.
+- ex01: "./serialization" test the serialization and deserialization for a pointer, that continue with the same data and address.
+- ex02: "./identify_real_type" test the random instance for a base pointer.
+
+  * C++07:
+ 
+- ex00: "./a_new_fuctions" test the implementation for swap, min and max function templates.
+- ex01: "./iter" checks the implementation of the function template 'iter' that should work with any type of array.
+- ex02: "./array" Implements a Array<T> class template for dynamic arrays, supporting various element types (T).
+
+
+  * C++08:
+
+- ex00: "./easy_find nº" test the searching of the number 'nº' at two different containers (vector and list), one with 1-10 and the other with the even numbers between 2 and 20.
+- ex01: "./span" test the implementation of member functions addNumber() shortestSpan() and longestSpan().
+- ex02: "./mutated_abomination" test the implementation of a class with all advantages of a std::stack but also iterable.
+  
